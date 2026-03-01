@@ -1,1 +1,1 @@
-# Advanced-Java-Capgemini-LeftShift-Training
+# Advanced-Java-Assignments
